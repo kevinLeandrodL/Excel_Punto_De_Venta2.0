@@ -1,0 +1,13 @@
+Creacion Punto_De_Venta
+Codigo Completo: kevinleandrodl@gmail.com
+Descomprimir el .zip
+Habilitar Macros
+Clientes
+Proveedor
+Usuarios
+Venta
+Compra
+Detalle_Compra
+Detalle_Venta
+Stock
+Categorias_Stock
